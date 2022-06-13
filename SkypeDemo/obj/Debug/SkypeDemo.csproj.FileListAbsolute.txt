@@ -1,0 +1,70 @@
+c:\users\dopfns\documents\visual studio 2015\Projects\SkypeDemo\SkypeDemo\bin\Debug\SkypeDemo.exe.config
+c:\users\dopfns\documents\visual studio 2015\Projects\SkypeDemo\SkypeDemo\bin\Debug\SkypeDemo.exe
+c:\users\dopfns\documents\visual studio 2015\Projects\SkypeDemo\SkypeDemo\bin\Debug\SkypeDemo.pdb
+c:\users\dopfns\documents\visual studio 2015\Projects\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.Form1.resources
+c:\users\dopfns\documents\visual studio 2015\Projects\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.Properties.Resources.resources
+c:\users\dopfns\documents\visual studio 2015\Projects\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.csproj.GenerateResource.Cache
+c:\users\dopfns\documents\visual studio 2015\Projects\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.exe
+c:\users\dopfns\documents\visual studio 2015\Projects\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.pdb
+c:\users\dopfns\documents\visual studio 2015\Projects\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.UserControls.UCcontacts.resources
+C:\Users\CEICOM\Desktop\Tutos C#\SkypeDemo\SkypeDemo\bin\Debug\SkypeDemo.exe.config
+C:\Users\CEICOM\Desktop\Tutos C#\SkypeDemo\SkypeDemo\bin\Debug\SkypeDemo.exe
+C:\Users\CEICOM\Desktop\Tutos C#\SkypeDemo\SkypeDemo\bin\Debug\SkypeDemo.pdb
+C:\Users\CEICOM\Desktop\Tutos C#\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.csprojAssemblyReference.cache
+C:\Users\CEICOM\Desktop\Tutos C#\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.Form1.resources
+C:\Users\CEICOM\Desktop\Tutos C#\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.Properties.Resources.resources
+C:\Users\CEICOM\Desktop\Tutos C#\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.UserControls.UCcontacts.resources
+C:\Users\CEICOM\Desktop\Tutos C#\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.csproj.GenerateResource.cache
+C:\Users\CEICOM\Desktop\Tutos C#\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.csproj.CoreCompileInputs.cache
+C:\Users\CEICOM\Desktop\Tutos C#\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.exe
+C:\Users\CEICOM\Desktop\Tutos C#\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.pdb
+C:\Users\Lucas\Desktop\SkypeDemo\SkypeDemo\bin\Debug\SkypeDemo.exe.config
+C:\Users\Lucas\Desktop\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.exe
+C:\Users\Lucas\Desktop\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.pdb
+C:\Users\Lucas\Desktop\SkypeDemo\SkypeDemo\bin\Debug\SkypeDemo.exe
+C:\Users\Lucas\Desktop\SkypeDemo\SkypeDemo\bin\Debug\SkypeDemo.pdb
+C:\Users\Lucas\Desktop\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.Form1.resources
+C:\Users\Lucas\Desktop\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.Properties.Resources.resources
+C:\Users\Lucas\Desktop\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.UserControls.UCcontacts.resources
+C:\Users\Lucas\Desktop\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.csproj.GenerateResource.Cache
+C:\Users\CEICOM\Desktop\lucas.proyecto\SkypeDemo\SkypeDemo\bin\Debug\SkypeDemo.exe.config
+C:\Users\CEICOM\Desktop\lucas.proyecto\SkypeDemo\SkypeDemo\bin\Debug\SkypeDemo.exe
+C:\Users\CEICOM\Desktop\lucas.proyecto\SkypeDemo\SkypeDemo\bin\Debug\SkypeDemo.pdb
+C:\Users\CEICOM\Desktop\lucas.proyecto\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.csprojAssemblyReference.cache
+C:\Users\CEICOM\Desktop\lucas.proyecto\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.Form1.resources
+C:\Users\CEICOM\Desktop\lucas.proyecto\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.Form2.resources
+C:\Users\CEICOM\Desktop\lucas.proyecto\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.login.resources
+C:\Users\CEICOM\Desktop\lucas.proyecto\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.Properties.Resources.resources
+C:\Users\CEICOM\Desktop\lucas.proyecto\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.UserControls.UCcontacts.resources
+C:\Users\CEICOM\Desktop\lucas.proyecto\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.csproj.GenerateResource.cache
+C:\Users\CEICOM\Desktop\lucas.proyecto\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.csproj.CoreCompileInputs.cache
+C:\Users\CEICOM\Desktop\lucas.proyecto\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.exe
+C:\Users\CEICOM\Desktop\lucas.proyecto\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.pdb
+C:\Users\CEICOM\Desktop\lucas.proyecto\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.Splash_Screen.resources
+C:\Users\CEICOM\Desktop\lucas.proyecto\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.Users.resources
+C:\Users\CEICOM\Desktop\lucas.proyecto\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.Proveedor.resources
+C:\Users\CEICOM\Desktop\lucas.proyecto\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.Productos.resources
+C:\Users\CEICOM\Desktop\lucas.proyecto\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.VENTAS.resources
+C:\Users\CEICOM\Desktop\lucas.proyecto\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.Clientes.resources
+C:\Users\CEICOM\Desktop\lucas.proyecto\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.Empleados.resources
+D:\tienda-en-C--main\SkypeDemo\bin\Debug\SkypeDemo.exe.config
+D:\tienda-en-C--main\SkypeDemo\bin\Debug\SkypeDemo.exe
+D:\tienda-en-C--main\SkypeDemo\bin\Debug\SkypeDemo.pdb
+D:\tienda-en-C--main\SkypeDemo\obj\Debug\SkypeDemo.csprojAssemblyReference.cache
+D:\tienda-en-C--main\SkypeDemo\obj\Debug\SkypeDemo.Clientes.resources
+D:\tienda-en-C--main\SkypeDemo\obj\Debug\SkypeDemo.Empleados.resources
+D:\tienda-en-C--main\SkypeDemo\obj\Debug\SkypeDemo.Form1.resources
+D:\tienda-en-C--main\SkypeDemo\obj\Debug\SkypeDemo.Form2.resources
+D:\tienda-en-C--main\SkypeDemo\obj\Debug\SkypeDemo.login.resources
+D:\tienda-en-C--main\SkypeDemo\obj\Debug\SkypeDemo.Productos.resources
+D:\tienda-en-C--main\SkypeDemo\obj\Debug\SkypeDemo.Properties.Resources.resources
+D:\tienda-en-C--main\SkypeDemo\obj\Debug\SkypeDemo.Proveedor.resources
+D:\tienda-en-C--main\SkypeDemo\obj\Debug\SkypeDemo.Splash_Screen.resources
+D:\tienda-en-C--main\SkypeDemo\obj\Debug\SkypeDemo.UserControls.UCcontacts.resources
+D:\tienda-en-C--main\SkypeDemo\obj\Debug\SkypeDemo.Users.resources
+D:\tienda-en-C--main\SkypeDemo\obj\Debug\SkypeDemo.VENTAS.resources
+D:\tienda-en-C--main\SkypeDemo\obj\Debug\SkypeDemo.csproj.GenerateResource.cache
+D:\tienda-en-C--main\SkypeDemo\obj\Debug\SkypeDemo.csproj.CoreCompileInputs.cache
+D:\tienda-en-C--main\SkypeDemo\obj\Debug\SkypeDemo.exe
+D:\tienda-en-C--main\SkypeDemo\obj\Debug\SkypeDemo.pdb
