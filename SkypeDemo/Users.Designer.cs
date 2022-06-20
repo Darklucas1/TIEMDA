@@ -43,7 +43,6 @@
             this.txtfecha = new System.Windows.Forms.DateTimePicker();
             this.label5 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
-            this.btnsalir = new System.Windows.Forms.Button();
             this.btneliminar = new System.Windows.Forms.Button();
             this.btnmodificar = new System.Windows.Forms.Button();
             this.btnregistrar = new System.Windows.Forms.Button();
@@ -137,10 +136,11 @@
             // 
             // btnnuevo
             // 
-            this.btnnuevo.BackColor = System.Drawing.Color.White;
-            this.btnnuevo.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnnuevo.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.btnnuevo.Location = new System.Drawing.Point(4, 163);
+            this.btnnuevo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
+            this.btnnuevo.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnnuevo.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Bold);
+            this.btnnuevo.ForeColor = System.Drawing.Color.White;
+            this.btnnuevo.Location = new System.Drawing.Point(72, 160);
             this.btnnuevo.Name = "btnnuevo";
             this.btnnuevo.Size = new System.Drawing.Size(138, 43);
             this.btnnuevo.TabIndex = 18;
@@ -220,25 +220,13 @@
             this.label4.Text = "Fecha:";
             this.label4.Click += new System.EventHandler(this.Label4_Click);
             // 
-            // btnsalir
-            // 
-            this.btnsalir.BackColor = System.Drawing.Color.White;
-            this.btnsalir.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnsalir.ForeColor = System.Drawing.Color.Black;
-            this.btnsalir.Location = new System.Drawing.Point(576, 163);
-            this.btnsalir.Name = "btnsalir";
-            this.btnsalir.Size = new System.Drawing.Size(138, 43);
-            this.btnsalir.TabIndex = 9;
-            this.btnsalir.Text = "Salir";
-            this.btnsalir.UseVisualStyleBackColor = false;
-            this.btnsalir.Click += new System.EventHandler(this.Btnsalir_Click);
-            // 
             // btneliminar
             // 
-            this.btneliminar.BackColor = System.Drawing.Color.White;
-            this.btneliminar.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.btneliminar.ForeColor = System.Drawing.Color.Black;
-            this.btneliminar.Location = new System.Drawing.Point(433, 163);
+            this.btneliminar.BackColor = System.Drawing.Color.Red;
+            this.btneliminar.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btneliminar.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Bold);
+            this.btneliminar.ForeColor = System.Drawing.Color.White;
+            this.btneliminar.Location = new System.Drawing.Point(498, 163);
             this.btneliminar.Name = "btneliminar";
             this.btneliminar.Size = new System.Drawing.Size(138, 43);
             this.btneliminar.TabIndex = 8;
@@ -248,10 +236,11 @@
             // 
             // btnmodificar
             // 
-            this.btnmodificar.BackColor = System.Drawing.Color.White;
-            this.btnmodificar.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnmodificar.ForeColor = System.Drawing.Color.Black;
-            this.btnmodificar.Location = new System.Drawing.Point(290, 163);
+            this.btnmodificar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            this.btnmodificar.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnmodificar.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Bold);
+            this.btnmodificar.ForeColor = System.Drawing.Color.White;
+            this.btnmodificar.Location = new System.Drawing.Point(354, 163);
             this.btnmodificar.Name = "btnmodificar";
             this.btnmodificar.Size = new System.Drawing.Size(138, 43);
             this.btnmodificar.TabIndex = 7;
@@ -261,10 +250,11 @@
             // 
             // btnregistrar
             // 
-            this.btnregistrar.BackColor = System.Drawing.Color.White;
-            this.btnregistrar.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnregistrar.ForeColor = System.Drawing.Color.Black;
-            this.btnregistrar.Location = new System.Drawing.Point(146, 163);
+            this.btnregistrar.BackColor = System.Drawing.SystemColors.HotTrack;
+            this.btnregistrar.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnregistrar.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Bold);
+            this.btnregistrar.ForeColor = System.Drawing.Color.White;
+            this.btnregistrar.Location = new System.Drawing.Point(210, 163);
             this.btnregistrar.Name = "btnregistrar";
             this.btnregistrar.Size = new System.Drawing.Size(138, 43);
             this.btnregistrar.TabIndex = 6;
@@ -351,7 +341,6 @@
             this.groupBox1.Controls.Add(this.txtfecha);
             this.groupBox1.Controls.Add(this.label5);
             this.groupBox1.Controls.Add(this.label4);
-            this.groupBox1.Controls.Add(this.btnsalir);
             this.groupBox1.Controls.Add(this.btneliminar);
             this.groupBox1.Controls.Add(this.btnmodificar);
             this.groupBox1.Controls.Add(this.btnregistrar);
@@ -377,6 +366,7 @@
             this.BackColor = System.Drawing.Color.Transparent;
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
+            this.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
             this.Name = "Users";
             this.Size = new System.Drawing.Size(753, 513);
             this.groupBox2.ResumeLayout(false);
@@ -404,7 +394,6 @@
         private System.Windows.Forms.DateTimePicker txtfecha;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.Button btnsalir;
         private System.Windows.Forms.Button btneliminar;
         private System.Windows.Forms.Button btnmodificar;
         private System.Windows.Forms.Button btnregistrar;
